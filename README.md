@@ -1,3 +1,3 @@
-# iotstuff
+# Iotstuff
 
-This is all my stuff that i did for my Iot Project
+This is all my stuff that I did for my Iot Project
